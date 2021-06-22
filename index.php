@@ -18,7 +18,7 @@
     	<div class="row">
         <div class="col-md-8">
             <div class="card">
-
+              <h1>Bienvenidos TICSITOS</h1>
                <ul class="nav nav-tabs bg-success text-white">
                   <li class="nav-item">
                     <a class="nav-link active" href="#">Indice</a>
